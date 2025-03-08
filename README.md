@@ -119,3 +119,10 @@ def main():
    ```
 3. Perform hand gestures to move the mouse, click, or take screenshots.
 
+## Sample Output
+
+Here is an example of the program detecting hand gestures and controlling the mouse:
+
+![Sample Output](sample_output.jpg)
+
+
